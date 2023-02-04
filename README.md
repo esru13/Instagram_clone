@@ -1,2 +1,3 @@
 # Instagram_clone
-Created with CodeSandbox
+Instagram clone using html and css
+created with codesandbox
